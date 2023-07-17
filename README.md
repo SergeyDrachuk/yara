@@ -1,1 +1,1 @@
-# yara
+# Collection of yara rules
